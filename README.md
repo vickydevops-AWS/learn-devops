@@ -1,1 +1,1 @@
-# learn-devops
+# learn-shell
