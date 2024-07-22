@@ -28,8 +28,17 @@ sed -i 'ACTION' file
 2. string search based 
 
 example like, if we want to delete  a line 
+
 for line number criteria
+
 sed '1 d' file [1 d - first line delete]
 
 for search string criteria 
+
 sed '/root d' file 
+
+both the above examples will be displaying the output, however we want eo edit the file 
+
+sed -i '1d' file 
+
+sed -i 'root/d' file 
