@@ -2,7 +2,7 @@
 
 # syntex
 
-#function abc() {
+# function abc() {
 # command
 # command
 # }
@@ -12,7 +12,7 @@
 # abc() {
 # command
 # command
-# }
+#}
 
 # How to call a function - simply call the function as a command
 
