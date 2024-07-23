@@ -19,10 +19,8 @@
 # abc
 
 SAMPLE() {
- echo SAMPLE FUNCTION
+ echo SAMPLE FUNCTION;
 }
 
 SAMPLE
-SAMPLE
 
-[now the command whatever inside the () will applicable in code]
