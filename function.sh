@@ -12,7 +12,7 @@
 # abc() {
 # command
 # command
-}
+# }
 
 # How to call a function - simply call the function as a command
 
@@ -21,4 +21,8 @@
 SAMPLE() {
  echo SAMPLE FUNCTION
 }
-SAMPLE [now the command whatever inside the () will applicable in code]
+
+SAMPLE
+SAMPLE
+
+[now the command whatever inside the () will applicable in code]
