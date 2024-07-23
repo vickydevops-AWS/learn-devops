@@ -1,5 +1,5 @@
 SAMPLE() {
- echo SAMPLE FUNCTION;
+ echo SAMPLE FUNCTION
 }
 
 SAMPLE
