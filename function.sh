@@ -1,6 +1,5 @@
 # function is a name given to a set of commands.
 
-# syntex
 
 # function abc() {
 # command
