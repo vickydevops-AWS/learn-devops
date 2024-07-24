@@ -24,7 +24,7 @@ echo apple price - ${apple}Dollars
 
 # Example
 date=$(date)
- echo date - $date
+ echo toady date is  - $date
 
-add=$(4+5)
- echo 4+5 - $add
+add=$((4+5-1))
+ echo 4+5-1 - $add
