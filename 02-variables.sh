@@ -13,3 +13,18 @@ echo ${name} Training - Faculty ${faculty}
 # when to use {} while accessing the variable - in case if you have to print string in the combination of variable
 apple=20
 echo apple price - ${apple}Dollars
+
+
+#variable substitution
+# -->command substitution - you can declare a variable by executing a command and store the output in a variables
+# syntax : Var=$(command)
+
+# Arithmetic substitution - you can declare a variable by solving the given arithmetic expression
+# syntax : var=$((1+2-3/4))
+
+# Example
+date=$(date)
+ echo date - $date
+
+add=$(4+5-1)
+ echo Add - $add

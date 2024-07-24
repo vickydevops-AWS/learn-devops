@@ -26,4 +26,6 @@ SAMPLE() {
 
 SAMPLE
 
+#variables in function
+# --->- declare variables in functions,Main program can access it and vice-versa
 
