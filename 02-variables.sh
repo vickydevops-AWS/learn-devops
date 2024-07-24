@@ -37,3 +37,8 @@ echo value of y from CLI - $y
 # Approach 2 - bash 02-variables.sh 100 200 ( these variables $1, $2, $3...$n, $*, $# are called as the special variables in shell)
 echo First Argument - $1
 echo Second Argument - $2
+echo All Argument - $*
+echo Argument count - $#
+
+# Approach 3 - export z=500 ; bash  02-variables.sh
+echo Environment Variable z - $z
