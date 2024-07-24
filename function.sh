@@ -1,7 +1,0 @@
-SAMPLE() {
- echo SAMPLE FUNCTION
-}
-
-SAMPLE
-
-
