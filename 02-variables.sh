@@ -28,3 +28,12 @@ date=$(date)
 
 add=$((4+5-1))
  echo 4+5-1 - $add
+
+# you can access variables  fom CLI
+# Approach 1 - x=100 y=200 bash 02-variables.sh
+echo value of x from CLI - $x
+echo value of y from CLI - $y
+
+# Approach 2 - bash 02-variables.sh 100 200 ( these variables $1, $2, $3...$n, $*, $# are called as the special variables in shell)
+echo First Argument - $1
+echo Second Argument - $2
