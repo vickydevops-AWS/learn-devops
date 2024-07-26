@@ -21,3 +21,5 @@ echo -e "\e[35mHello word in magenta color\e[0m"
 echo -e "\e[36mHello word in cyan color\e[0m"
 
 echo -e "Hello\n\nWord"
+
+echo -e "Hello\t\tWord"
