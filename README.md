@@ -42,3 +42,6 @@ both the above examples will be displaying the output, however we want eo edit t
 sed -i '1d' file 
 
 sed -i 'root/d' file 
+
+download learn ansible 
+
